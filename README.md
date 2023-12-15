@@ -9,7 +9,7 @@ Recognizing objects in images and printing English words using Yolov3
 3. Draw bounding boxes and labels for detected objects in the image.
 4. An annotated image is displayed and the loop is terminated when the user presses 'q'.
 
- ## **Requirements: (with versions i tested on)**
+ ## **Requirements**
  1. python          (3.7.3)
  2. opencv          (4.1.0)
  3. numpy           (1.61.4)
