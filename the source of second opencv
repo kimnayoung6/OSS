@@ -1,0 +1,8 @@
+coco text file
+https://github.com/pjreddie/darknet/blob/master/data/coco.names
+model weight file
+https://pjreddie.com/media/files/yolov3.weights
+model configuration file
+https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+example video
+https://www.youtube.com/watch?v=JpkwTgMhlkU
